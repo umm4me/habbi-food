@@ -50,7 +50,7 @@ p{
     margin-right: 2%;
     padding-left: 20px;
     border-radius: 10px;
-    box-shadow:10px 10px 40px darkgray;
+    box-shadow:10px 10px 40px lightgrey;
 }
 .flxible-container{
     display: flex;
@@ -70,7 +70,7 @@ p{
    
 }
 .like-bar img{
-    width: 100%;
+    width: 97%;
     padding: 20px;
     border-radius: 10px;
 }
